@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Marian Ciobanu<br>Passionate about Web Development and excited to learn more. Open-minded and not afraid to explore challenges.</h1>
-<img align="right" alt="Coding" width="500"  src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ciobanu.marian.79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ciobanu-marian-296268252/)
