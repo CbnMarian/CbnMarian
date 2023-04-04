@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Marian Ciobanu<br>Passionate about Web Development and excited to learn more. Open-minded and not afraid to explore challenges.</h1>
+<h1 align="center"> I'm Marian Ciobanu<br>Passionate about Web Development and excited to learn more. Open-minded and not afraid to explore challenges.</h1>
 <img align="right" alt="Coding" width="500" height="300" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 ## 🌐 Socials:
