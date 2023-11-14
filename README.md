@@ -1,4 +1,4 @@
-# 🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸
+# 🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸🛸
   I'm specialized in crafting stunning interfaces and navigating the wild jungle of browsers. Challenges are just a chance to flex my coding muscles and, occasionally, my sense of humor. Let's dive into the digital unknown together!
 
 
